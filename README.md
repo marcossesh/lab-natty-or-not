@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Python Avançado na Prática: do Decorator ao Deploy
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+E-book criado com apoio de IA generativa sobre conceitos avançados de Python, focado em aplicações reais para desenvolvimento backend, automação e boas práticas de código.  
+O conteúdo foi pensado para quem já domina o básico da linguagem e quer evoluir para recursos como decorators, generators, context managers, tipagem estática, testes com pytest e programação assíncrona.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- ChatGPT (IA generativa para criação e refino do texto)
+- Editor de código (VS Code / outro)
+- Git e GitHub para versionamento e publicação do projeto
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+1. Definição do público-alvo e dos objetivos do e-book (Python avançado para quem já domina o básico).  
+2. Criação de um sumário com capítulos cobrindo desde funções avançadas até testes, tipagem e async.  
+3. Uso do ChatGPT para gerar a primeira versão de cada capítulo, seguindo prompts bem detalhados sobre estilo, exemplos e tamanho.  
+4. Rodadas de revisão também com IA, pedindo textos mais objetivos, remoção de redundâncias e melhoria dos exemplos de código.  
+5. Organização do conteúdo em um arquivo Markdown dentro da pasta `ebook/` e documentação do projeto neste README.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+- Um e-book em formato Markdown (`ebook/python-avancado.md`) pronto para ser lido diretamente no GitHub ou convertido para PDF.  
+- Conteúdo estruturado por capítulos, com explicações teóricas, exemplos práticos e trechos de código comentados.  
+- Projeto organizado em repositório público, compondo o portfólio como material de estudo e demonstração de domínio de Python avançado.
 
-### Exemplos e Insigths
+## 💭 Reflexão
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar um e-book de Python avançado com IA generativa mostrou como a tecnologia pode acelerar o processo de escrita, desde o rascunho até a revisão do conteúdo.  
+Ao mesmo tempo, ficou claro que o olhar humano ainda é essencial para escolher os tópicos certos, validar exemplos de código, ajustar o nível de profundidade e garantir que o material faça sentido para o público-alvo.  
+No fim, a combinação entre experiência prática em Python e o uso estratégico de IA resultou em um material que poderia facilmente ser confundido com um conteúdo produzido de forma totalmente manual.
